@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 #contact{
     border-bottom: 4px solid #FFD837;
     /* font-weight: 600; */
@@ -6,4 +10,5 @@
     border-bottom: none;
     font-weight: 500;
 }
+
 
